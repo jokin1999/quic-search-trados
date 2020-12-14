@@ -1,0 +1,443 @@
+# NAME = Trados 合集数据库
+# VERSION = v1.0
+
+-> The AutoSuggest function...
+=> automatically suggests segment fragments when it finds relevant matches when you start typing a word.
+
+-> A termbase is...
+=> A standard electronic dictionary on CD ROM.
+
+-> The Full Tag Text button...
+=> displays the tag with all its attributes.
+
+-> When a window is set to Auto-Hide in SDL Trados Studio it will...
+=> only be visible while the mouse pointer is positioned over the window.
+
+-> For a Microsoft Word document, the navigation tree...
+=> contains a document tree with links to the document headings, sub-headings, tables, etc.
+
+-> You can quickly jump to a location in the document, e.g. a particular heading, using the navigation tree in the...
+=> Navigation Pane
+
+-> What happens by default when you confirm a target segment, e.g. through Ctrl+Enter?
+=> The segment is stored in the TM and you move to the next (untranslated) segment.
+
+-> What does a green pencil icon between a source and target segment pair mean?
+=> The translation is in draft status.
+
+-> How do you select a termbase from the Translation Memory and Document Settings window?
+=> Click Advanced -> All Language Pairs -> Termbases -> Add
+
+-> After selecting a termbase file, a message box usually appears. What is the purpose of this message box?
+=> A message box is only shown to warn you when the termbase file was created in an older version of SDL MultiTerm, e.g. SDL MultiTerm 2007.
+
+-> What happens after you have selected a file for analysis?
+=> The Batch Processing dialog box opens.
+
+-> Terms that have been recognized in a source segment are highlighted with...
+=> red bracketed lines
+
+-> Which of the following functions is not part of SDL Trados Studio, and can only be performed in a separate application?
+=> Terminology management
+
+-> Tag verification on the whole document is triggered
+=> through Review -> Verify
+
+-> Which string is highlighted in the Concordance window?
+=> The source or target search string depending on whether you searched in the source or in the target segment.
+
+-> Which one of these buttons leads you to the view where you can see reports?
+=> 3
+
+-> The button Open Package...
+=> Is used for opening project packages or return packages.
+
+-> Can you open a DOCX file in SDL Trados Studio while it is open in Microsoft Word?
+=> No, the file cannot be opened in SDL Trados Studio while it is open in another application.
+
+-> Here you can see an example of a search result in the Translation Results window. Which is the source segment that was retrieved from the TM?
+=> 1
+
+-> How do you generate a translation in its native format from an SDL XLIFF file?
+=> Through File -> Save Target As
+
+-> Which of these icons is used to open a single file for translation?
+=> 2
+
+-> Where would you click to add a termbase?
+=> All Language Pairs
+
+-> You have analyzed a file in Studio. After the process is complete you see the following screen. How do you view the Analyze Files report?
+=> After clicking Close, go to Reports view and view the report there.
+
+-> Is it possible to specify a default language pair that is always used when you open a single document?
+=> Yes. Go to File -> Options -> Editor -> Languages and choose your preferred language pair.
+
+-> What is an alignment?
+=> A parallel view of two files (source and target language) to create segment pairs which can be imported to a TM.
+
+-> What is the default file extension for Microsoft Word 2007-2016 documents?
+=> DOCX
+
+-> What does this icon mean?
+=> The segment is an automated translation, e.g. a segment that consists only of a web address.
+
+-> You are trying to insert a word from the Concordance window into your document (see screenshot). Why is the command insert into document inactive?
+=> Because the cursor is not positioned in the target cell of the side-by-side editor.
+
+-> What is the status of a segment after you have copied the source segment into the target?
+=> Not Translated
+
+-> What is a context match?
+=> A segment in the current document that is 100% identical to a segment from the translation memory and that is preceded by the same segment as the segment from the translation memory.
+
+-> What is the file extension used for translation memories in SDL Trados Studio?
+=> *.sdltm
+
+-> Which default shortcut is used to switch SDL Trados Studio into Full Screen mode?
+=> F11
+
+-> Which view in SDL Trados Studio is used for translating files?
+=> Editor
+
+-> The Active Terminology Recognition function...
+=> automatically searches the current source segment for known terminology stored in a termbase.
+
+-> When you create a new file-based TM...
+=> you can enter your preferred TM filename into the Name field.
+
+-> Comments cannot be applied to...
+=> a whole segment
+
+-> Comments are deleted by...
+=> clicking the Delete Comment button in the Comments Pane.
+
+-> How can you transfer tags from the source to the target segment?
+=> By clicking the tag in the source segment while holding down the Ctrl key.
+
+-> Why has the match value become transparent in this example?
+=> Because the translation has not been confirmed yet.
+
+-> When you open a project package...
+=> you need to extract its content to an empty folder.
+
+-> What is the name of the window that shows known terminology found in a source segment?
+=> Term Recognition
+
+-> What is the default keyboard shortcut for inserting placeables?
+=> Shift+.
+
+-> What happens when you edit a confirmed target segment (i.e. a unit that has Translated status)?
+=> The unit changes to Draft status.
+
+-> Which extension is used for SDL Trados Studio project packages?
+=> SDLPPX
+
+-> When saving a document in the Editor of SDL Trados Studio using
+ File -> Save, it will...
+=> be saved as a bilingual SDL XLIFF document.
+
+-> What does CAT stand for?
+=> Computer-Aided Translation
+
+-> Which of the following statements is correct?
+=> With a concordance search, you can look up a string selected from a source or target segment.
+
+-> A ghost tag is shown when...
+=> the user attempts to delete either the opening or closing tag of a tag pair.
+
+-> Which of the following statements is NOT correct?
+=> A TM can contain one source language and multiple target languages.
+
+-> In the Editor view, the source document is divided into...
+=> segments
+
+-> A fuzzy match...
+=> is shown when a source segment from the TM is similar to the segment currently being translated in the Editor.
+
+-> Saving a document as target...
+=> generates the target document in its native format.
+
+-> A placeable is...
+=> an element that can be placed into the target segment, 
+e.g. a number.
+
+-> A repetition in an Analyze Files report is...
+=> A segment that does not have a 100% match from the TM, but that occurs more than once in one or several documents of a project.
+
+-> The most severe error level generated by tag verification is:
+=> Error
+
+-> A termbase file can have the extension
+=> SDLTB or MDB
+
+-> What is a pre-requisite for analyzing files?
+=> The file must be available in SDL XLIFF format. If this is not the case, it will automatically be saved as SDL XLIFF in the background.
+
+-> Which string is highlighted in the Concordance window?
+=> The source or target search string depending on whether you searched in the source or in the target segment.
+
+-> What happens after you have selected a file for analysis?
+=> The Batch Processing dialog box opens.
+
+-> Which button do you need to click in the Translation Memory and Document Settings window to create a new TM?
+=> Create Translation Memory
+
+-> Which button in the Translation Memory and Document Settings window do you need to click to add an AutoSuggest dictionary?
+=> Advanced
+
+-> By default, interactive tag verification is triggered when...
+=> you confirm a segment
+
+-> During initial startup of SDL Trados Studio you can...
+=> select a user profile and choose to load a sample project.
+
+-> Which of these buttons is used to copy the current source segment into the target cell?
+=> 4
+
+-> Which of these suggestions comes from a termbase?
+=> 3
+
+-> Which tag or tags do you have to delete to make the ghost tag disappear?
+=> 1 and 4
+
+-> Where would you click to add a termbase?
+=> All Language Pairs
+
+-> Which of the following icons is not shown on the SDL Trados Studio Welcome screen?
+=> Create Termbase
+
+-> How do you create termbase entries from SDL Trados Studio on the 
+fly?
+=> Highlight a source and/or target term in the Editor. Then click the right mouse button and select Add New Term. Save the new entry with the Save this Entry button.
+
+-> What kind of information does the third (middle) column of the side-by-side editor in SDL Trados Studio show?
+=> The segment status.
+
+-> For which document formats can you use the real-time preview feature?
+=> Microsoft Word, PowerPoint, HTML, and XML
+
+-> Which of these buttons is used to set a window to auto-hide?
+=> None of these buttons
+
+-> Which feature copies confirmed translations from one segment to other segments (in the same document) that have identical source content?
+=> Auto-propagation
+
+-> What is the file extension used for return packages?
+=> SDLRPX
+
+-> What does it mean, if a file has the usage label "Reference" in the list of files?
+=> The file is only for reference, the segments will not be shown in the editor.
+
+-> How do you input an Excel list of terms into MultiTerm?
+=> By converting an Excel list with the MultiTerm Convert tool and importing the resulting XML file to a termbase.
+
+-> What happens when you try to open a JPG file for translation in SDL Trados Studio?
+=> You get a message saying that this file type is not supported.
+
+-> What does this icon mean?
+=> The segment is an automated translation, e.g. a segment that consists only of a web address.
+
+-> Why is a word in this segment highlighted?
+=> Because a comment has been added to this word.
+
+-> What is the difference between translating single files and using projects?
+=> A single file is saved as SDL XLIFF, files in a project are saved as SDLPPX.
+
+-> You have moved from segment 1 to segment 2. Although you are certain that there should be at least one match from the TM, no match is shown in the Translation Results window. What could be the reason for this?
+=> You have placed the cursor inside the source segment, not inside the target segment.
+
+-> You have partially translated a DOC file and saved it as an SDL XLIFF. The next day, you would like to continue translating the document. Which document do you open to continue your work?
+=> The SDL XLIFF document derived from the original DOC file.
+
+-> To which document formats can you apply the option Allow source editing?
+=> Only to Word and PowerPoint files.
+
+-> A ghost tag is shown when...
+=> the user attempts to delete either the opening or closing tag of a tag pair.
+
+-> Which of the following statements is correct?
+=> If you want to remove paired tags from your target segment, you need to delete them both.
+
+-> Which default shortcut is used to switch SDL Trados Studio into Full Screen mode?
+=> F11
+
+-> For a Microsoft Word document, the navigation tree...
+=> contains a document tree with links to the document headings, sub-headings, tables, etc.
+
+-> In the Editor view, the source document is divided into...
+=> segments
+
+-> Which extension is used for SDL Trados Studio project packages?
+=> SDLPPX
+
+-> To generate a printable version of a Microsoft Word target document in its native format you must...
+=> use File -> Print and View - > View In -> MS Word in Target.
+
+-> A fuzzy match...
+=> is shown when a source segment from the TM is similar to the segment currently being translated in the Editor.
+
+-> A placeable is...
+=> an element that can be placed into the target segment, e.g. a number.
+
+-> What is a context match?
+=> A segment that is identical or similar to a segment from the translation memory, and that is preceded and followed by the same segments as the one found in the translation memory.
+
+-> How do you select a termbase from the Translation Memory and Document Settings window?
+=> Click Advanced -> All Language Pairs -> Termbases -> Add
+
+-> What happens after you have selected a file for analysis?
+=> The Batch Processing dialog box opens.
+
+-> Which button in the Translation Memory and Document Settings window do you need to click to add an AutoSuggest dictionary?
+=> Advanced
+
+-> Display Filtering allows you to...
+=> display only particular segments in a document, e.g. all segments with comments
+
+-> Which string is highlighted in the Concordance window?
+=> The source or target search string depending on whether you searched in the source or in the target segment.
+
+-> By default, interactive tag verification is triggered when...
+=> you confirm a segment
+
+-> A repetition in an Analyze Files report is...
+=> A segment that occurs more than once in one or several documents of a project and for which an exact or a fuzzy match has been found in the selected TM.
+
+-> What does a green pencil icon between a source and target segment pair mean?
+=> The translation is in draft status.
+
+-> How many tag display options are available in the Editor of SDL Trados Studio?
+=> 4
+
+-> Which tag or tags do you have to delete to make the ghost tag disappear?
+=> 1 and 4
+
+-> What does this icon between a source and target segment pair mean?
+=> The segment has 'not translated' status.
+
+-> What is the name of the window that shows known terminology found in a source segment?
+=> Term Recognition
+
+-> Which of these icons is used to open a single file for translation?
+=> 2
+
+-> For which document formats can you use the real-time preview feature?
+=> Microsoft Word, PowerPoint, HTML, and XML
+
+-> What does a green pencil icon with a check mark between a source and target segment pair mean?
+=> The segment is translated.
+
+-> Can you open a DOCX file in SDL Trados Studio while it is open in Microsoft Word?
+=> No, the file cannot be opened in SDL Trados Studio while it is open in another application.
+
+-> Which of these buttons displays the tag ids?
+=> 4
+
+-> Which of these buttons is used to set a window to auto-hide?
+=> None of these buttons
+
+-> You have deleted the closing tag of a tag pair. The closing tag has therefore been turned into a ghost tag. How can you resolve this problem?
+=> By selecting the opening tag, right-clicking it, and selecting Restore Tags from the context menu.
+
+-> Why is the first segment considered a context match?
+=> Because the TM 'remembers' that this segment was followed by the same segment in another project.
+
+-> Why is a word in this segment highlighted?
+=> Because a comment has been added to this word.
+
+-> You are trying to insert a word from the Concordance window into your document (see screenshot). Why is the command insert into document inactive?
+=> Because the cursor is not positioned in the target cell of the side-by-side editor.
+
+-> To which document formats can you apply the option Allow source editing?
+=> Only to Word and PowerPoint files.
+
+-> What is a segment status?
+=> The status shows if the segment has been confirmed, or is still a draft or untranslated.
+
+-> What happens when you open a single file for translation in SDL Trados Studio?
+=> The file will immediately be opened in the Editor view once you click OK in the Open Document dialog box.
+
+-> What is the default file extension for Microsoft Word 2007-2016 documents?
+=> DOCX
+
+-> You have partially translated a DOC file and saved it as an SDL XLIFF. The next day, you would like to continue translating the document. Which document do you open to continue your work?
+=> The SDL XLIFF document derived from the original DOC file.
+
+-> How do you input an Excel list of terms into MultiTerm?
+=> By converting an Excel list with the MultiTerm Convert tool and importing the resulting XML file to a termbase.
+
+-> Why is the first segment considered a context match?
+=> Because the TM 'remembers' that this segment was followed by the same segment in another project.
+
+-> Can you customize the size of the text in the editor?
+=> Yes, by going to the File tab, then select Options -> Editor -> Font adaptation.
+
+-> Where can a file-based TM be stored?
+=> You can store a file-based TM in any location to which you have write access.
+
+-> The last column in the Editor view of SDL Trados Studio contains the...
+=> document structure information
+
+-> What is a context match?
+=> A segment that is identical or similar to a segment from the translation memory, and that is preceded and followed by the same segments as the one found in the translation memory.
+
+-> The default keyboard shortcut for opening a single document for translation is
+=> Ctrl+Shift+O
+
+-> In which direction can translations be auto-propagated?
+=> Translations can be auto-propagated to segments below and above the currently active segment.
+
+-> Which of the following elements does the Navigation pane on the Welcome screen of SDL Trados Studio not contain?
+=> Links to external applications such as Passolo, WinAlign, etc.
+
+-> What is the name of the window that shows known terminology found in a source segment?
+=> Term Recognition
+
+-> What is a segment status?
+=> The status shows if the segment has been confirmed, or is still a draft or untranslated.
+
+-> Can an empty target segment be confirmed as translated?
+=> Yes, this is possible, but no translation unit will be stored in the TM.
+
+-> Which one of these buttons is used to mark a project as complete?
+=> 2
+
+-> What happens when you correct a segment that is already translated and confirm it again with Ctrl+Enter?
+=> The previous (incorrect) translation will be overwritten by the corrected version.
+
+-> When a DOC file is saved to SDL XLIFF, the extension will be …
+=> FileName.DOC.SDLXLIFF
+
+-> When you do a concordance search on a translation unit in a TM, the concordance result shows a match value. The match value displayed in the Concordance window (e.g. 100%) may differ from the match value shown in the Translation Results window for the same translation unit (e.g. only 88%). What is the reason for this?
+=> The minimum match value set for the concordance search differs from the minimum match value that was chosen for TM lookups.
+
+-> An Analyze Files report shows...
+=> the number of segments, words, and characters for one or more documents and the TM leverage.
+
+-> How can you generate a File Analysis report?
+=> By right-clicking a file, and selecting Batch Tasks -> Analyze Files from the context menu
+
+-> Which feature copies confirmed translations from one segment to other segments (in the same document) that have identical source content?
+=> Auto-propagation
+
+-> Which of these buttons adds a comment to the current target segment?
+=> 2
+
+-> Which button do you need to click to minimize the tags?
+=> 3
+
+-> The Copy Source to Target function is useful when...
+=> the translation for a segment is identical or very similar to the source segment.
+
+-> A return package contains...
+=> the translated, bilingual SDL XLIFF documents.
+
+-> An Analyze Files report shows...
+=> the number of segments, words, and characters for one or more documents and the TM leverage.
+
+-> Where can you view the results of a file analysis?
+=> In the Reports view.
+
+-> How can you generate a File Analysis report?
+=> By right-clicking a file, and selecting Batch Tasks -> Analyze Files from the context menu

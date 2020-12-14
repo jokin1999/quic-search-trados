@@ -1,0 +1,4 @@
+# QCS Login Whitelist
+# 一行一个授权码
+wxy
+trados
